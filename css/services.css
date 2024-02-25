@@ -1,0 +1,14 @@
+@import url(./hizmat.css);
+@import url(./index.css);
+@import url(./portfolio.css);
+@import url(./services.css);
+
+.img_line{
+    margin-top: 100px;
+}
+.nav_bottom_text_left p{
+    margin-top: 35px;
+}
+.nav_bottom_text_left p span{
+    color: blue;
+}

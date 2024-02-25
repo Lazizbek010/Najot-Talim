@@ -1,0 +1,143 @@
+.hizmat{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 60px;
+}
+.hizmat_right h1{
+    color: #fff;
+    margin-bottom: 30px;
+}
+.hizmat_right p{
+    color: #656465;
+}
+
+.form_top{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+.service :nth-child(2){
+     width: 393px;
+}
+.service p{
+    margin-bottom: 10px;
+}
+.service :nth-child(1){
+    width: 288px;
+}
+.service input:nth-child(2) {
+    background: #323234;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    padding: 14px;
+    color: #6F6F71;
+    border: 1px solid #fff;
+}
+.service input:nth-child(1) {
+    background: #323234;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    padding: 14px;
+    color: #6F6F71;
+    border: 1px solid #fff;
+}
+.service p{
+    font-size: 20px;
+    color: #fff;
+}
+.user :nth-child(2){
+    width: 338px;
+}
+.user p{
+    color: #fff;
+    margin-bottom: 10px;
+}
+.user input:nth-child(2){
+    background: #323234;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    padding: 14px;
+    color: #6F6F71;
+    border: 1px solid #fff;
+}
+.user :nth-child(1){
+    width: 338px;
+}
+.user input:nth-child(1){
+    background: #323234;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    padding: 14px;
+    color: #6F6F71;
+    border: 1px solid #fff;
+}
+.slayt :nth-child(2){
+  width: 287px; 
+  
+}
+.slayt{
+    color: #fff;
+}
+.slayt :nth-child(1){
+    width: 294px; 
+  }
+.slayt{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #323234;
+    border-radius: 25px;
+    padding: 10px 10px;
+    height: 40px;
+    border: 1px solid #fff;
+
+}
+.slayt img{
+   max-width: 22px;
+    height: 22px;
+}
+.slayt h1{
+    font-size: 15px;
+    font-weight: 100;
+}
+.message input{
+    width: 711px;
+    height: 168px;
+    background: #323234;
+    border-radius: 25px;
+    border: 1px solid #fff;
+    outline: none;
+}
+.message p{
+    color: #fff;
+    margin-bottom: 10px;
+}
+.hizmat{
+    margin-top: 100px;
+}
+.line{
+    margin-top: 100px;
+}
+.line_btn{
+    background-color: #0040DD;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    margin-top: 35px;
+    margin-bottom: 200px;
+}
+.line_btn img{
+    margin-left: 5px;
+}

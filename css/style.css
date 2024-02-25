@@ -1,0 +1,21 @@
+@import url(./hizmat.css);
+@import url(./index.css);
+@import url(./portfolio.css);
+@import url(./services.css);
+@import url(./haqimizda.css);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+/* container  */
+.container{
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+body{
+    background-color: #1C1C1E;
+}
